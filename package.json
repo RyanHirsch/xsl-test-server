@@ -1,0 +1,24 @@
+{
+  "name": "xsl-sharepoint",
+  "version": "0.0.0",
+  "description": "connect server for testing XSL for XML from SharePoint 2010 lists",
+  "main": "app/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Ryan.Hirsch@gmail.com",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-express-server": "~0.3.1",
+    "express": "~3.2.4",
+    "grunt-contrib-livereload": "~0.1.2",
+    "grunt-contrib-watch": "~0.4.3",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-jshint": "~0.4.3",
+    "jade": "~0.30.0"
+  }
+}
